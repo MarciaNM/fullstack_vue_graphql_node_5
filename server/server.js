@@ -30,4 +30,4 @@ const resolvers = {
 };
 
 const server = new ApolloServer({ typeDefs, resolvers });
-server.listen();
+server.listen(3000);
