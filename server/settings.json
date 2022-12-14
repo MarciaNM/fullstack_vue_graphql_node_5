@@ -1,0 +1,40 @@
+{
+"workbench.statusBar.visible": false,
+"editor.minimap.enabled": false,
+"window.zommlevel": 3,
+"workbench.activitybar.visible": false,
+"extensions.ignoreRecommendations": true,
+"workbench.startupEditor": "newUntitledFile",
+"workbench.colorTheme": "Visual Studio Light",
+"update.showreleaseNotes": false,
+"extensions.autoUpdate": false,
+"extensions.autoCheckUpdates": false,
+"explorer.confirmeDelete": false,
+"breadcrumbs.enabled": false,
+"editor.suggestonTriggerCharacters": false,
+"javascript.suggest.enabled": false,
+"typescript.suggest.enabled": false,
+"editor.parameterhints.enabled": false,
+"vetur.format.options.tabSize":4,
+"vetur.format.options.useTabs": true,
+"[javascript}": {
+	"editor.defaltFormatter": "vscode.typescript-language-features"
+},
+"editor.detecIndentation": false,
+"editor.inserSpaces": false,
+"[html]": {
+	"editor.defaltFormatter": "vscode.html-language-features"
+},
+"[json]": {
+	"editor.defaltFormatter": "vscode.json-language-features"
+},
+"eslint.validate": [
+{
+	"language": "vue",
+	"autoFix": false
+	},
+	{
+	"language": "javascript",
+	"autoFix": false
+	}
+	]
